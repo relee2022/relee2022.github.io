@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cash Bortner"
+title                    : "Raven Lee"
 title_separator          : "-"
-name                     : &name "Cash Bortner"
+name                     : &name "Raven Lee"
 description              : &description "personal description"
 url                      : https://cbortner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cash Bortner"
+  name             : "Raven Lee"
   avatar           : "picture.jpeg"
-  bio              : "Cash is an Assistant Professor of Mathematics at California State University, Stanislaus."
+  bio              : "Raven is an Junior Mathematics major, Data Science minor at Tougaloo College."
   location         : #"CSU Stanislaus"
-  employer         : "CSU Stanislaus"
+  employer         : "Tougaloo College"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://https://scholar.google.com/citations?user=cxfkHa8AAAAJ&hl=en"
   email            : "cbortner@csustan.edu"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/cash-bortner-585380285/"
+  linkedin         : "http://www.linkedin.com/in/ravene-lee"
   orcid            : "http://orcid.org/0000-0002-8471-5569"
   pinterest        :
   soundcloud       :

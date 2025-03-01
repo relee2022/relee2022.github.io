@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Raven Lee"
-  avatar           : "picture.jpeg"
-  bio              : "Raven is an Junior Mathematics major, Data Science minor at Tougaloo College."
+  avatar           : "IMG_5655.jpeg"
+  bio              : "Mathematics & Data Science Provost Scholar at Tougaloo College"
   location         : #"CSU Stanislaus"
   employer         : "Tougaloo College"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://https://scholar.google.com/citations?user=cxfkHa8AAAAJ&hl=en"
-  email            : "cbortner@csustan.edu"
+  email            : "rlee@student.tougaloo.edu"
   researchgate     :  #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
